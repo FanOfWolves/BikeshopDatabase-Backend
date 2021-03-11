@@ -1,5 +1,9 @@
 # Information
 ***
+NOTE: Original Hosting at https://github.com/nykez/bikeshop-api.git
+
+
+
 [Front-end](https://github.com/nykez/bikeshop/)
 
 [Michael](https://github.com/devMichaelREdwards): Developer
